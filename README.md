@@ -1,4 +1,3 @@
-#Version=2.0
 **Created By Atsaei**
 
 # AO-NR - Android System Optimization Settings For Non-Rooted
@@ -8,15 +7,15 @@ For Non-Root User.`
 
 ### Features in AO- Scripts ;
 
-[•] Angle Rendering (Maybe Not supported any game)
-[•] Surfaceflinger
-[•] Trimmings
-[•] Disable Log (Logcat Specifically)
-[•] HWUI Tweaks
-[•] Optimizing Game
-[•] Hibernate And Freeze Third-party Apps
-[•] Android Properties Settings
-[•] Etc.
+Angle Rendering (Maybe Not supported any game)
+Surfaceflinger
+Trimmings
+Disable Log (Logcat Specifically)
+HWUI Tweaks
+Optimizing Game
+Hibernate And Freeze Third-party Apps
+Android Properties Settings
+Etc.
 
 **Additionally, You can select any game with packaged name in it**.
 
